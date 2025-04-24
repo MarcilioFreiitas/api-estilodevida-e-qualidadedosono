@@ -69,8 +69,4 @@ Esses recursos auxiliam:
 - **Maven** para gerenciamento de dependências.
 - **MySQL** configurado com o banco de dados chamado `qualidadedevida`.
 
-### Passos para Rodar
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/<seu-usuario>/qualidade-de-vida-api.git
-   cd qualidade-de-vida-api
+
